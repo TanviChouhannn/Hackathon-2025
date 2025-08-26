@@ -11,3 +11,5 @@
 ## BCA 2 Year
 
 - [Eco Friendly Living Website](https://github.com/preetichablani/green-living-portal.git). Team Members [Preeti Chablani](https://github.com/preetichablani), [Manas Suryavanshi](), [Krishna Dhalwal](), Chinmay Sharma]()
+
+- [Eco Friendly Living Website](https://github.com/TanviChouhannn/eco-living.git). Team Members [Tanvi Chouhan](https://github.com/TanviChouhannn), [Lakshita Negi](https://github.com/lakshita-negi), [Khyati Sharma](https://github.com/khyati06sharma), [Siddhika Virani](https://github.com/SIDDHIKAVIRANI)
